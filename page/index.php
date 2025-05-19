@@ -15,9 +15,14 @@
         $places = ["Japan","Singapore","Hong Kong","Paris","USA"];
         $events = ["won the lottery","fell in love","lost everything","found a treasure chest","became"];
 
+        //
         $chosen_name = $names[rand(o, count($names)-1)];
         $chosen_job = $jobs[rand(o, count($jobs)-1)];
         $chosen_place = $places[rand(o, count($places)-1)];
+
+        //images
+        $img_place = strtolower(str_replace(" ", "_", $chosen_place)) . ".png";
+        $img_job = strtolower(str_replace(" ", "_", $chosen_job)) . ".png";
 
         ?>
     </div>

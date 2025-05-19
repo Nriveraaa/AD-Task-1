@@ -63,6 +63,18 @@
             echo "</div>";
         }
 
+        //final fate
+        echo "<hr><h3>Your Final Fate:</h3>";
+        if ($fate_score >= 12) {
+            echo "You lived a beautiful life!";
+        } elseif ($fate_score >= 7) {
+            echo "You lived a decent and calm life.";
+        } else {
+            echo "Fate was not in your favor...";
+        }
+
+        echo "</div>";
+
         ?>
     </div>
 </body>

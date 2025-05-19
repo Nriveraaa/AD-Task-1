@@ -32,6 +32,37 @@
         echo "<h2>Welcome, $chosen_name the $chosen_job from $chosen_place</h2>";
         echo "<div class='log'>";
 
+        //looping plus the conditionals
+        $fate_score = 0;
+
+        for ($day = 1; $day <= 7; $day++) {
+            $event = $events[rand(0, count($events)-1)];
+            $luck = rand(1, 100);
+
+            //icon based on event
+            $icon = "";
+            if (strpos($event, "lottery") !== false) $icon = "money.png";
+            else if (strpos($event, "love")!== false) $icon = "love.png";
+            else if (strpos($event, "mystery")!== false) $icon = "mystery.png";
+            else if (strpos($event, "famous")!== false) $icon = "star.png";
+            else $icon = "bad.png";
+
+            echo "<div class='day'>";
+            echo "<strong>Day $day:</strong> You $event (Luck: $luck)";
+            echo " <img src='assets/img/event_icons/$icon' class='event-icon'><br>";
+
+            if ($luck >= 70) {
+                echo "You thrived today!<br>";
+                $fate_score += 2;
+            } elseif ($luck >= 40) {
+                echo "It was an average day.<br>";
+                $fate_score += 1;
+            } else {
+                echo "Misfortune struck...<br>";
+            }
+            echo "</div>";
+        }
+
         ?>
     </div>
 </body>

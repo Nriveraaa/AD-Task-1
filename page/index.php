@@ -7,6 +7,14 @@
 <body>
     <div class="container">
         <h1>Destiny Spinner</h1>
+        
+        <?php
+        //declarations
+        $names = ["Jason","Kobe","Jacob","Riley","Charlie"];
+        $jobs = ["Dream Catcher","Farmer","Time Traveler","Code Pirate","Robot Trainer"];
+        $places = ["","","","",""];
+        $events = ["","","","",""];
+        ?>
     </div>
 </body>
 </html>

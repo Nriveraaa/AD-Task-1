@@ -12,8 +12,8 @@
         //declarations
         $names = ["Jason","Kobe","Jacob","Riley","Charlie"];
         $jobs = ["Dream Catcher","Farmer","Time Traveler","Code Pirate","Robot Trainer"];
-        $places = ["","","","",""];
-        $events = ["","","","",""];
+        $places = ["Japan","Singapore","Hong Kong","Paris","USA"];
+        $events = ["won the lottery","fell in love","lost everything","found a treasure chest","became"];
         ?>
     </div>
 </body>

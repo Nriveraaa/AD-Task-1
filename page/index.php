@@ -24,6 +24,13 @@
         $img_place = strtolower(str_replace(" ", "_", $chosen_place)) . ".png";
         $img_job = strtolower(str_replace(" ", "_", $chosen_job)) . ".png";
 
+        echo "<div class='character'>";
+        echo "<img src='assets/img/$img_job' alt='$chosen_job' class='char-img'>";
+        echo "<img src='assets/img/$img_place' alt='$chosen_place' class='char-img'>";
+        echo "</div>";
+
+        
+
         ?>
     </div>
 </body>

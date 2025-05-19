@@ -29,7 +29,8 @@
         echo "<img src='assets/img/$img_place' alt='$chosen_place' class='char-img'>";
         echo "</div>";
 
-        
+        echo "<h2>Welcome, $chosen_name the $chosen_job from $chosen_place</h2>";
+        echo "<div class='log'>";
 
         ?>
     </div>

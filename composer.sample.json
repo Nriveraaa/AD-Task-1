@@ -1,9 +1,9 @@
 {
-    "name": "Nriveraaa/AD-Task-1",
+    "name": "htdocs/AD-Task-1",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Nriveraaa\\ADTask1\\": "src/"
+            "htdocs\\ADTask1\\": "src/"
         }
     },
     "authors": [

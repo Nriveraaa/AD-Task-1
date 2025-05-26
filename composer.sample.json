@@ -2,7 +2,7 @@
 // TODO change the authors: name to your developers name
 // TODO change the authors: email to your developers email
 {
-    "name": "ramir/php-pages",
+    "name": "Nriveraaa/php-pages",
     "type": "project",
     "autoload": {
         "psr-4": {
@@ -12,7 +12,7 @@
     "authors": [
         {
             "name": "zyx-0314-FJorn",
-            "email": "ramirezian037@gmail.com"
+            "email": "202310167@fit.edu.ph"
         }
     ],
     "scripts": {

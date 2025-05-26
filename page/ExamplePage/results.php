@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Student Results</title>
-  <link rel="stylesheet" href="/assets/css/example.css">
+  <link rel="stylesheet" href="/assets/css/StudentScores.css">
 </head>
 <body>
     <nav>

@@ -1,7 +1,7 @@
 // Declarations
 let students = [
   { name: "Alice", score: 85 },
-  { name: "Bob", score: 72 },
+  { name: "Bob", score: 62 },
   { name: "Charlie", score: 55 },
   { name: "Diana", score: 90 },
   { name: "Evan", score: 40 }
@@ -14,7 +14,7 @@ for (let i = 0; i < students.length; i++) {
   let status = "Failed";
 
   // Conditional check
-  if (students[i].score >= 60) {
+  if (students[i].score >= 70) {
     status = "Passed";
   }
 

@@ -8,7 +8,7 @@
 <body>
 
   <h1>Student Grade Tracker</h1>
-  <h2>Student Scores</h2>
+  <h2>Student Grade</h2>
   <a href="scores.php">View Scores</a>
   <ul id="studentList"></ul>
 

@@ -12,5 +12,9 @@
             <li><a href="results.php">Results</a></li>
         </ul>
     </nav>
+
+    <h1>Result Evaluation</h1>
+    <ul id="resultList"></ul>
+    <a href="index.php">← Back to List</a>
 </body>
 </html>

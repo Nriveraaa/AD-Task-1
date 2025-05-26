@@ -7,10 +7,10 @@
 </head>
 <body>
     <nav>
-    <ul class="navbar">
-      <li><a href="index.php">Home</a></li>
-      <li><a href="results.php">Results</a></li>
-    </ul>
+        <ul class="navbar">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="results.php">Results</a></li>
+        </ul>
     </nav>
 
     <h1>Student Score List</h1>

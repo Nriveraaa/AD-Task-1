@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <h1>Student Scores by Subject</h1>
+  <h1>Student Scores</h1>
   <div id="studentScores"></div>
 
   <script src="assets/js/scores.js"></script>

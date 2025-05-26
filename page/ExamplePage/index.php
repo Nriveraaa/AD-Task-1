@@ -11,11 +11,12 @@
       <li><a href="index.php">Home</a></li>
       <li><a href="results.php">Results</a></li>
     </ul>
-  </nav>
+    </nav>
 
-  <h1>Student Score List</h1>
-  <ul id="studentList"></ul>
-  <a href="results.php">Check Results →</a>
-  
+    <h1>Student Score List</h1>
+    <ul id="studentList"></ul>
+    <a href="results.php">Check Results →</a>
+
+    <script src="/assets/js/example.js"></script>
 </body>
 </html>

@@ -8,8 +8,6 @@
 <body>
 
   <h1>Student Score Tracker</h1>
-  <p>This page shows basic programming: <strong>declarations</strong>, <strong>loops</strong>, and <strong>conditionals</strong>.</p>
-
   <h2>Student Scores</h2>
   <ul id="studentList"></ul>
 

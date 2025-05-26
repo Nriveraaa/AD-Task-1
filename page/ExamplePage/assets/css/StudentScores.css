@@ -30,3 +30,11 @@ a {
   text-decoration: none;
 }
 
+.navbar {
+  list-style: none;
+  padding: 0;
+  background-color: #333;
+  overflow: hidden;
+  margin: 0 0 20px 0;
+  border-radius: 0;
+}

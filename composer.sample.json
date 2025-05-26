@@ -2,11 +2,11 @@
 // TODO change the authors: name to your developers name
 // TODO change the authors: email to your developers email
 {
-    "name": "Nriveraaa/php-pages",
+    "name": "Nriveraaa/AD-Task-1",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Ramir\\PhpPages\\": "src/"
+            "Nriveraaa\\ADTask1\\": "src/"
         }
     },
     "authors": [

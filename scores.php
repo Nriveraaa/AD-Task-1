@@ -9,6 +9,7 @@
 <body>
 
   <h1>Student Scores</h1>
+<a href="index.php">Back</a>
   <div id="studentScores"></div>
 
   <script src="assets/js/scores.js"></script>

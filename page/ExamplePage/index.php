@@ -17,6 +17,6 @@
     <ul id="studentList"></ul>
     <a href="results.php">Check Results →</a>
 
-    <script src="/assets/js/example.js"></script>
+    <script src="/assets/js/StudentScores.js"></script>
 </body>
 </html>

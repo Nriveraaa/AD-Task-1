@@ -17,6 +17,6 @@
     <ul id="resultList"></ul>
     <a href="index.php">← Back to List</a>
 
-    <script src="/assets/js/example.js"></script>
+    <script src="/assets/js/StudentScores.js"></script>
 </body>
 </html>

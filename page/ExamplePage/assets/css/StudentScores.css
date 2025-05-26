@@ -8,3 +8,25 @@ body {
 h1 {
   color: #222;
 }
+
+ul {
+  background: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  list-style: none;
+  max-width: 600px;
+  margin: 20px 0;
+}
+
+li {
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+a {
+  color: #0066cc;
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+}
+

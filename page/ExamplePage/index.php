@@ -12,5 +12,10 @@
       <li><a href="results.php">Results</a></li>
     </ul>
   </nav>
+
+  <h1>Student Score List</h1>
+  <ul id="studentList"></ul>
+  <a href="results.php">Check Results →</a>
+  
 </body>
 </html>

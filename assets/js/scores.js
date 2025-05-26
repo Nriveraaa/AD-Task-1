@@ -5,7 +5,7 @@ const students = [
     name: "Alice",
     subjects: {
       Math: 85,
-      English: 78,
+      English: 79,
       Science: 90
     }
   },

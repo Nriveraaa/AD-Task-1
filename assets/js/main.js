@@ -2,9 +2,9 @@
 let students = [
   { name: "Alice", score: 85 },
   { name: "Bob", score: 62 },
-  { name: "Charlie", score: 55 },
-  { name: "Diana", score: 90 },
-  { name: "Evan", score: 40 }
+  { name: "Charlie", score: 58 },
+  { name: "Diana", score: 92 },
+  { name: "Evan", score: 47 }
 ];
 
 let resultHTML = "";

@@ -1,9 +1,9 @@
 {
-    "name": "htdocs/AD-Task-1",
+    "name": "nicole/ad-task-1",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "htdocs\\ADTask1\\": "src/"
+            "nicole\\as-task-1\\": "src/"
         }
     },
     "authors": [
